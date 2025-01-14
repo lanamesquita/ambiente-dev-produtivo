@@ -13,8 +13,9 @@
   - [🖊️ Editor de código](#️-editor-de-código)
 
 ## 📂 Sobre o repositório
-Esse repositório é baseado no ótimo conteúdo de Luiz Carlos:   
-[/argentinaluiz/ambiente-dev-produtivo](https://github.com/argentinaluiz/ambiente-dev-produtivo) e [/argentinaluiz/my-vscode-settings/](https://github.com/argentinaluiz/my-vscode-settings). Se estiver buscando mais informações, pode acessar os repositórios originais. 
+Esse repositório é baseado no ótimo conteúdo do professor Luiz Carlos:   
+[/argentinaluiz/ambiente-dev-produtivo](https://github.com/argentinaluiz/ambiente-dev-produtivo) e [/argentinaluiz/my-vscode-settings/](https://github.com/argentinaluiz/my-vscode-settings). Se estiver buscando mais informações, pode acessar os repositórios originais ou pode assistir sua [aula online "O Guia Definitivo para Montar o Ambiente de Dev dos Seus Sonhos"](https://www.youtube.com/watch?v=btCf40ax0WU&ab_channel=FullCycle).
+
 
 ## 📋 Conteúdo
 
