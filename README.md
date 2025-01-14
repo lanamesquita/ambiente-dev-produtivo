@@ -13,8 +13,8 @@
   - [Editor de código](#editor-de-código)
 
 ## Sobre o repositório
-Esse repositório é baseado no conteúdo de Luiz Carlos:   
-[/argentinaluiz/ambiente-dev-produtivo](https://github.com/argentinaluiz/ambiente-dev-produtivo) e [/argentinaluiz/my-vscode-settings/](https://github.com/argentinaluiz/my-vscode-settings/blob/main/vscode-settings/extensions.json). Se estiver buscando mais informações, pode acessar os repositórios originais. 
+Esse repositório é baseado no ótimo conteúdo de Luiz Carlos:   
+[/argentinaluiz/ambiente-dev-produtivo](https://github.com/argentinaluiz/ambiente-dev-produtivo) e [/argentinaluiz/my-vscode-settings/](https://github.com/argentinaluiz/my-vscode-settings). Se estiver buscando mais informações, pode acessar os repositórios originais. 
 
 ## Conteúdo
 
@@ -104,4 +104,4 @@ Estas são algumas opções de editores de código:
 
 A página abaixo descreve o VSCode e indica extensões úteis:
 
-[VS Code](VSCODE.md)
+[VSCode](VSCODE.md)
