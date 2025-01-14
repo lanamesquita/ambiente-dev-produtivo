@@ -29,7 +29,7 @@ Um corretor ortográfico básico que funciona bem com códigos e documentos. Imp
 ### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 Na tentativa de resolver [Tabs x Spaces](https://www.youtube.com/watch?v=oRva7UxGQDw), Prettier é um formatador de código opinativo.
 
-![Tabs vs Spaces](https://media.crystallize.com/crystallize_marketing/images/648_developer_comics_tabs_vs_spaces.jpg)
+<img src="https://media.crystallize.com/crystallize_marketing/images/648_developer_comics_tabs_vs_spaces.jpg" alt="Tabs vs Spaces" width="300">
 
 Comandos:
 1. `Ctrl + Shift + P` -> Format Document 
@@ -38,7 +38,7 @@ Comandos:
 ### [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 A extensão Docker facilita a criação, o gerenciamento e a implantação de aplicativos em contêineres.
 
-### Dev Containers
+### [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 A extensão Dev Containers permite que você use um contêiner Docker como um ambiente de desenvolvimento completo, de forma isolada e portátil. Utiliza um arquivo `.devcontainer` para configurar automaticamente o ambiente do contêiner, incluindo dependências, extensões e configurações específicas.
 
 ### Extensões de Controle de Versão
@@ -74,7 +74,7 @@ Navegue e inspecione arquivos de design diretamente no VSCode.
 ![Design no Figma](https://static.figma.com/uploads/a4510b0ae063e1ae709281f30ef95f974299e6b5)
 
 ### [GitHub Theme para VSCode](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-Temas de alto contraste para o VSCode.
+Temas de cores para o VSCode, incluindo alguns de alto contraste.
 
 ### [SonarQube for IDE](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 Detecta problemas de codificação, como bugs e vulnerabilidades, em tempo real.
