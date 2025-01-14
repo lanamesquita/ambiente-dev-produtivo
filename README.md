@@ -11,6 +11,7 @@
       - [🔌 Plugins e complementos:](#-plugins-e-complementos)
     - [⚙️ Power Toys](#️-power-toys)
   - [🖊️ Editor de código](#️-editor-de-código)
+  - [Resumo de atividades](#resumo-de-atividades)
 
 ## 📂 Sobre o repositório
 Esse repositório é baseado no ótimo conteúdo do professor Luiz Carlos:   
@@ -101,6 +102,13 @@ Estas são algumas opções de editores de código:
 6. **[+indicado]** [VSCode](https://code.visualstudio.com/): Editor de código da Microsoft, amplamente utilizado, com suporte a extensões, depuração e diversas linguagens.
 7. WebStorm é um ambiente de desenvolvimento integrado projetado especificamente para JavaScript.
 
-A página abaixo descreve o VSCode e indica extensões úteis:
 
-[VSCode](VSCODE.md)
+## Resumo de atividades
+- [ ] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
+- [ ] 🔧 Instalar Ferramentas adicionais
+    - [ ] ✨ Instalar o oh my zsh
+    - [ ] ⚙️ Instalar o Power Toys
+        - [ ] Testar o Power Toys
+- [ ] 🖊️ Instalar VSCOde (Editor de código)
+
+Após finalizar, seguir para a página que descreve o VSCode e indica extensões úteis: [VSCode](VSCODE.md).

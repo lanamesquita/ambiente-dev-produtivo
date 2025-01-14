@@ -3,6 +3,7 @@ O Visual Studio Code (VSCode) é um editor de código-fonte (não é uma IDE) gr
 
 ![VSCode](images/vscode.jpg)
 
+
 ## 🌟 Características do VSCode
 
 1. **Extensões e Personalização**: vasta gama de extensões no marketplace e interface altamente customizável com temas e atalhos. Configure o Settings Sync para fazer backup das suas configurações.
@@ -97,3 +98,60 @@ Ative: `"terminal.integrated.copyOnSelection": true`.
 
 ### [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 Adiciona ferramentas de depuração do React ao navegador. Veja mais detalhes no [React Developer Tools](https://pt-br.react.dev/learn/react-developer-tools).
+
+### Instalações necessárias para trabalhar com React
+## 🛠️ Passo 1: Instalar o Node.js
+
+1. Acesse o site oficial do Node.js: [Node.js Downloads](https://nodejs.org/).
+2. Escolha a versão LTS recomendada para maior estabilidade.
+3. Siga as instruções de instalação de acordo com o seu sistema operacional:
+   - **Windows**: Baixe o instalador `.msi` e siga os passos.
+   - **macOS**: Baixe o instalador `.pkg` ou use o `brew`:
+     ```bash
+     brew install node
+     ```
+   - **Linux**: Use o gerenciador de pacotes correspondente, por exemplo:
+     ```bash
+     sudo apt update
+     sudo apt install nodejs npm
+     ```
+## 🔍 Passo 2: Verificar as versões instaladas
+
+Após a instalação, verifique se o Node.js, npm e npx foram instalados corretamente.
+
+1. **Verificar a versão do Node.js**:
+   ```bash
+   node -v
+2. Verificar a versão do npm:
+      ```bash
+   npm -v
+3. Verificar a versão do npx:
+   ```bash
+   npx -v
+
+## Resumo de atividades
+- [ ] Instalar e configurar as seguintes extensões no VSCode:
+    - [ ] **Code Spell Checker**: Habilitar suporte para correção em português brasileiro.
+    - [ ] **Prettier**: Configurar formatação automática de código.
+    - [ ] **Docker**: Configurar para gerenciar contêineres no projeto.
+    - [ ] **Dev Containers**: Criar ambiente de desenvolvimento isolado com `.devcontainer`.
+    - [ ] **GitHub Pull Requests**: Revisar e gerenciar solicitações de pull.
+    - [ ] **Git Lens**: Habilitar funcionalidades avançadas do Git.
+    - [ ] **GitHub Copilot**: Ativar para autocompletar com IA.
+    - [ ] **Rest Client**: Testar endpoints de APIs diretamente no VSCode.
+    - [ ] **Live Share**: Configurar para colaboração em tempo real.
+    - [ ] **Figma for VSCode**: Navegar e inspecionar arquivos de design no editor.
+    - [ ] **SonarQube for IDE**: Detectar problemas de codificação em tempo real.
+    - [ ] **ESLint**: Configurar análise estática do código.
+- [ ] Ativar backup e sincronização das configurações no VSCode
+- [ ] Habilitar autosave do VSCode
+- [ ] Habilitar opção de Selecionar texto no terminal com o mouse
+- [ ] Instalar React Developer Tools
+- [ ] Preparar ambiente para React
+  - [ ] Instalar Node, NPM e NVM no ambiente de desenvolvimento
+  - [ ] Verificar instalações:
+    - [ ] `node -v`
+    - [ ] `npm -v`
+    - [ ] `npx -v`
+
+
